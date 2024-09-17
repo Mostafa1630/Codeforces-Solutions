@@ -1,0 +1,14 @@
+-Convert String to Number  String.valueOf()  || Integer.toString()  || variable.toString()
+-Convert Number to String  Integer.parseInt()
+-Number Or Not   Character.isDigit()
+-Letter Or Not Character.isLetter()
+-Letter UpperCase Or Not Character.isUpperCase()
+-Letter LoweCase Or Not Character.isLowerCase()
+-To Print 9 Number After (,)  System.out.printf("%.9f", varaible);
+
+String input = sc.nextLine();
+-To Return number Of Index  input.indexOf()
+-To Know Contain Or Not     input.contains()
+-To Return Index One   char c = sc.next().charAt(0);
+-If Double Return ,000 else not   DecimalFormat df = new DecimalFormat("0.#####"); df.format(variable)
+-To Calc Factorial  long fac = n * (n + 1) / 2;
