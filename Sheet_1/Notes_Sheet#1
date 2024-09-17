@@ -12,3 +12,4 @@ String input = sc.nextLine();
 -To Return Index One   char c = sc.next().charAt(0);
 -If Double Return ,000 else not   DecimalFormat df = new DecimalFormat("0.#####"); df.format(variable)
 -To Calc Factorial  long fac = n * (n + 1) / 2;
+-To Sort Array  Arrays.sort(arr_num)
